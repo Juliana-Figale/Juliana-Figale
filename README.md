@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juliana Figale</h1>
+<h1 align="center">Hi, I'm Juliana Figale</h1>
 <h3 align="center">Enthusiastic about crafting data-driven strategies in cooperation with an audacious team committed to sustainable development</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/juliana-figale](https://troopl.com/juliana-figale)
