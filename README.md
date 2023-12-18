@@ -1,4 +1,4 @@
-![Imagem de Fundo](JulianaFigale-back.jpg)
+![Imagem de Fundo](JF-back.png)
 <h1 align="center">Hi, I'm Juliana Figale</h1>
 <h3 align="center">Enthusiastic about crafting data-driven strategies for sustainable development</h3>
 
