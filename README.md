@@ -1,3 +1,4 @@
+![Imagem de Fundo](Juliana Figale_Analista de Dados, Data Analyst, Business Analyst_ESG.jpg)
 <h1 align="center">Hi, I'm Juliana Figale</h1>
 <h3 align="center">Enthusiastic about crafting data-driven strategies for sustainable development</h3>
 
